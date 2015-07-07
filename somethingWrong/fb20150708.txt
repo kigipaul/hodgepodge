@@ -1,0 +1,80 @@
+
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="initial-scale=1.0,user-scalable=no"><title>行政院人事總處公告：明天放假縣市。</title><meta itemprop="name" content="行政院人事總處公告：明天放假縣市。" id="qTitle"><meta name="description" itemprop="description" content="行政院人事總處公告：明天放假縣市。" id="qDesc"><meta itemprop="image" content='http://7aro35.com1.z0.glb.clouddn.com//images/diy_icon/icon-78.jpg' id="qImg"/>  <script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"c2b85b3e871ff0dc1b5571d1de4f40b7",petok:"ec74f8e3a7bbaa970d6bb9dcc4fe882968d9e019-1436294673-1800",zone:"cpzoushi.cn",rocket:"a",apps:{}}];document.write('<script type="text/javascript" src="//edge.yunjiasu.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script>
+<link href="http://7aro35.com1.z0.glb.clouddn.com//css/main.min.css" rel="stylesheet" type="text/css"><script data-rocketsrc="http://7aro35.com1.z0.glb.clouddn.com//js/main.min.js" type="text/rocketscript"></script> <script data-rocketsrc="http://7aro35.com1.z0.glb.clouddn.com//js/WeixinApi.min.js?v=2" type="text/rocketscript"></script></head><script data-rocketsrc="http://res.wx.qq.com/open/js/jweixin-1.0.0.js" type="text/rocketscript"></script><script type="text/rocketscript">
+    var conf_data = {
+        debug: false,
+        appId: '',
+        timestamp: ,
+        nonceStr: '',
+        signature: '' 
+    }
+</script><script data-rocketsrc='http://7aro35.com1.z0.glb.clouddn.com//js/wxjssdk.js?v=2' type="text/rocketscript"></script><script type="text/rocketscript">var _host = "http://" + window.location.host;
+function attention_wx()
+{
+    //alert("关注微信“整蛊专家”，朋友圈整人利器！更多朋友圈整人游戏等你来玩！");
+    location.href='http://mp.weixin.qq.com/s?__biz=MjM5MjgxNzE4MA==&mid=203556706&idx=1&sn=e18edf57ebf38d0131515dcca325d2b2#rd';
+}
+
+    shareData = { 
+            title : '行政院人事總處公告：明天放假縣市。',
+            desc   : "",
+            link  : "" + _host + "/index.php/popgame/show_pop/mid/1343460",
+            imgUrl   : 'http://7aro35.com1.z0.glb.clouddn.com//images/diy_icon/icon-78.jpg',
+            trigger: shareData.trigger,
+            success: function (res) {
+                    setTimeout(function(){  
+                            attention_wx();
+                            },500);
+              }
+    };  
+</script><script type="text/rocketscript">function HTMLDecode(strEncodeHTML)
+ {
+     var div = document.createElement('div');
+     div.innerHTML = strEncodeHTML;
+     return div.innerText;
+ }
+var _loop = 1;
+var pop_string = '[&quot;你腦袋有洞啊&quot;,&quot;好端端的放什麼假&quot;,&quot;好好認真工作賺錢啦&quot;,&quot;成天只想玩&quot;,&quot;還點！&quot;,&quot;快去工作啦&quot;]';
+var pop_arry = JSON.parse(HTMLDecode (pop_string));
+while( _loop-- )
+{
+    for( i = 0; i < pop_arry.length; ++i )
+    {
+        alert(pop_arry[i]);
+    }
+}
+function click_create()
+{
+     _czc.push(["_trackEvent",'create','click']);
+     location.href='/index.php/popgame/create_game/from/tl';
+}
+function click_ad()
+{
+     location.href='http://mp.weixin.qq.com/s?__biz=MjM5MjgxNzE4MA==&mid=203556706&idx=1&sn=e18edf57ebf38d0131515dcca325d2b2#rd'; 
+}
+function click_fb()
+{
+     location.href='https://www.facebook.com/ourjoker'; 
+}
+</script><body><style>.title,.desc{opacity:0;position:absolute;left:0;top:0;}</style><p class="title">行政院人事總處公告：明天放假縣市。</p><p class="text desc">行政院人事總處公告：明天放假縣市。</p><style>.ad_top{text-align:center;margin-left:-8px;margin-right:-8px;}</style><div id="ad_top" class="ad_top"><ins class="adsbygoogle" style="display:block;height:100px;" data-ad-client="ca-pub-9048483410846116" data-ad-slot="8397558842"></ins></div><div id='google_js'></div><script type="text/rocketscript">(adsbygoogle = window.adsbygoogle || []).push({});
+function load_google_js()
+{
+     var header = document.getElementById('google_js');
+     var script = document.createElement('script');
+     script.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+     header.appendChild(script);
+}
+ setTimeout(function(){
+          load_google_js(); 
+         },200); 
+
+</script><div class="input-area"><div class="left-icon"><img src="http://7aro35.com1.z0.glb.clouddn.com//images/bm_icon.gif"></div><div style="float:left"><div class="banner-title">哈哈哈！终于出来了</div><div class="banner-intro">刚才你体验到的是您的好友专为您精心设计的<strong style="color: #C60;">整人游戏“弹死你”</strong>，点击下面按钮，你也可以设计整蛊游戏弹死TA！</div></div><div style="clear:both"></div></div><div class="margin-10"></div><button id="add_btn" class="btn btn-yellow" onclick="click_create()">&nbsp;我也要定制“弹死你”整蛊好友</button><div class="margin-10"></div><button id="add_btn" class="btn btn-green" onclick="click_fb()" style="-webkit-animation: twinkling 1s infinite ease-in-out;">点这里，Like“整蛊专家”在FB的公共主页，第一时间玩到新的整人游戏哦~</button><style>.sbg{display:none;position:fixed;top:0;left:0;width:100%;height:100%;text-align:center;color:#fff;font-size:22px;line-height:1.7em;background:rgba(0,0,0,0.85);z-index:200;}.sbg .arron{position:absolute;top:8px;right:8px;width:100px;height:100px;background:url(http://7aro35.com1.z0.glb.clouddn.com//images/arron.gif) no-repeat;background-size:100px 100px;}.sbg p{padding-top:78px;}.sbg .strong{color:#ff1a27;font-size:26px;}</style><div class="margin-5"></div><button class="btn btn-white" onclick="document.getElementById('sbg').style.display = 'block';"><img src="http://7aro35.com1.z0.glb.clouddn.com//images/icon_msg.gif">&nbsp;点这里发给好友整蛊TA ></button><div class="margin-10"></div> <div id="sbg" class="sbg" onclick="document.getElementById('sbg').style.display = 'none';"><div class="arron"></div><p id="msg">请点击右上角按钮<br/> 再点击【分享到朋友圈】或【发送给好友】<br/><span class="strong">好友点击进入就会中招！</span></p><div class="margin-10"></div></div><style>.ad_bottom{text-align:center;left:0px;right:0px;bottom:-5px;position:fixed;background-color:#FFF;z-index:999;}#botBoxClose{z-index:20000;top:-20px;}#botBoxClose{position:absolute;text-align:center;right:5px;top:2px;width:20px;height:20px;line-height:18px;border-radius:10px;background:rgba(0,0,0,0.6);color:#fff;font-size:16px;font-family:arial;cursor:pointer;</style><div class= "ad_bottom" ><script type= "text/rocketscript" > (Easouunion = window.Easouunion || {}).config = {
+      publisher:'8175_1081', 
+      style:2
+  };
+</script><div id="botBoxClose">x</div><script type="text/rocketscript" data-rocketsrc="http://assets.easou.com/union/easou-union.js"></script></div><div style="margin-bottom:60px;"></div><script type="text/rocketscript">var _czc = _czc || [];
+</script><div style="display:none"><script type="text/rocketscript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253498042'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D1253498042' type='text/javascript'%3E%3C/script%3E"));</script></div></body></html>
